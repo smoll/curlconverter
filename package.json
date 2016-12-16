@@ -8,6 +8,9 @@
     "email": "nickc@trillworks.com",
     "url": "http://trillworks.com"
   },
+  "browser" : {
+    "child_process": false
+  },
   "repository": "NickCarneiro/curlconverter",
   "license": "MIT",
   "keywords": [
